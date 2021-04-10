@@ -1,4 +1,4 @@
-# Big-Data
+# Big-Data-Lab
 Shared repo for labs.
 Students:
 Harsh Mahajan J027
